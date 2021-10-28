@@ -1,0 +1,2 @@
+endpoint: http://localhost:8866
+datamodel: datamodel.prisma

@@ -1,0 +1,13 @@
+syntax = "proto3"; 
+option go_package = ".;api";
+package api;
+ 
+service HandleRequest { // Local implement server
+    rpc Chatting(Mess) returns (Mess) {}
+}
+message Mess {
+    string type_ = 1;
+    string roomid = 2;
+    string user = 3;
+    string data = 4;
+}

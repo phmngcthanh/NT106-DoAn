@@ -1,0 +1,62 @@
+register
+client: {"command":{"code":"2","id":"19","status":null},"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},"user":{"name":"tesssssttttt","alias":null,"pass":"7e988cec87661a7fa67706d6e4986cab1abdf306349428958ef08526d02cee36","ava":null,"email":"tesssssttttt"},"room":{"id":null,"name":null,"type":null,"members":null}}<EOF>
+server: {"room":{},"user":{},"message":{},"command":{"code":"2","id":"19","status":"0"}}<EOF>
+-> 0 means success
+
+login
+{"command":{"code":"1","id":"33","status":null},"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},"user":{"name":"tesssssttttt","alias":null,"pass":"7e988cec87661a7fa67706d6e4986cab1abdf306349428958ef08526d02cee36","ava":null,"email":null},"room":{"id":null,"name":null,"type":null,"members":null}}<EOF>
+
+
+
+{"command":{"code":"12","id":"14","status":null},
+"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},
+"user":{"name":"tesssssttttt","alias":"tesssssttttt","pass":null,"ava":"iVBORw0KGgoAAAANSUhEUgAAAOMAAAE7CAIAAACg9qHtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAOdJREFUeF7twQENAAAAwqD3T20ONyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIzVHWwAB/JqDxAAAAABJRU5ErkJggg==","email":"tesssssttttt"},
+"room":{"id":null,"name":null,"type":null,"members":null}}<EOF>
+
+{"command":{"code":"11","id":"17","status":null},
+"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},
+"user":{"name":"tesssssttttt","alias":"tesssssttttt","pass":"b010781baf6ac84896712016071d1d70d11f316dbd0d8ba8e1f662e95cc895df","ava":"iVBORw0KGgoAAAANSUhEUgAAAOMAAAE7CAIAAACg9qHtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAOdJREFUeF7twQENAAAAwqD3T20ONyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIzVHWwAB/JqDxAAAAABJRU5ErkJggg==","email":"tesssssttttt"},
+"room":{"id":null,"name":null,"type":null,"members":null}}<EOF>
+
+
+
+{"command":{"code":"<code>","id":"<random>","status":<server response>},
+"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},
+"user":{"name":null,"alias":null,"pass":null,"ava":null,"email":null}
+,"room":{"id":null,"name":null,"type":null,"members":null}}<EOF>
+
+
+{"command":{"code":"1","id":"14","status":null},
+"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},
+"user":{"name":"tesssssttttt","alias":null,"pass":"b010781baf6ac84896712016071d1d70d11f316dbd0d8ba8e1f662e95cc895df","ava":null,"email":null},
+"room":{"id":null,"name":null,"type":null,"members":null}}<EOF>
+
+{"command":{"code":"3","id":"13","status":null},"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},"user":{"name":null,"alias":null,"pass":null,"ava":null,"email":null},"room":{"id":null,"name":"1","type":null,"members":null}}<EOF>
+{"command":{"code":"5","id":"33","status":null},"message":{"data":"9","type":"1","author":null,"date":null,"existroom":null},"user":{"name":null,"alias":null,"pass":null,"ava":null,"email":null},"room":{"id":"mhjkrq","name":null,"type":null,"members":null}}<EOF>
+{"command":{"code":"5","id":"27","status":null},"message":{"data":"9","type":"1","author":null,"date":null,"existroom":null},"user":{"name":null,"alias":null,"pass":null,"ava":null,"email":null},"room":{"id":"mhjkrq","name":null,"type":null,"members":null}}<EOF>
+{"command":{"code":"5","id":"15","status":null},"message":{"data":"Untitled.png[;]iVBORw0KGgoAAAANSUhEUgAAAOMAAAE7CAIAAACg9qHtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAOdJREFUeF7twQENAAAAwqD3T20ONyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIzVHWwAB/JqDxAAAAABJRU5ErkJggg==","type":"0","author":null,"date":null,"existroom":null},"user":{"name":null,"alias":null,"pass":null,"ava":null,"email":null},"room":{"id":"mhjkrq","name":null,"type":null,"members":null}}<EOF>
+{"command":{"code":"1","id":"11","status":null},"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},"user":{"name":"tester001","alias":null,"pass":"12bf62ca62a5d5177a6dfef23a793ce20f89a71b87c916700b983c9e9039cecd","ava":null,"email":null},"room":{"id":null,"name":null,"type":null,"members":null}}<EOF>
+{"command":{"code":"1","id":"27","status":null},"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},"user":{"name":"tester001","alias":null,"pass":"5a02ff325220acefede27f3db070b1e0703b3206ff0f31c391d0a42addd4f423","ava":null,"email":null},"room":{"id":null,"name":null,"type":null,"members":null}}<EOF>
+{"command":{"code":"4","id":"4","status":null},"message":{"data":null,"type":null,"author":null,"date":null,"existroom":null},"user":{"name":null,"alias":null,"pass":null,"ava":null,"email":null},"room":{"id":"mhjkrq","name":null,"type":null,"members":null}}<EOF>
+{"command":{"code":"5","id":"0","status":null},"message":{"data":"1","type":"1","author":null,"date":null,"existroom":null},"user":{"name":null,"alias":null,"pass":null,"ava":null,"email":null},"room":{"id":"mhjkrq","name":null,"type":null,"members":null}}<EOF>
+{"command":{"code":"5","id":"20","status":null},"message":{"data":"2","type":"1","author":null,"date":null,"existroom":null},"user":{"name":null,"alias":null,"pass":null,"ava":null,"email":null},"room":{"id":"mhjkrq","name":null,"type":null,"members":null}}<EOF>
+{"command":{"code":"5","id":"26","status":null},"message":{"data":"3","type":"1","author":null,"date":null,"existroom":null},"user":{"name":null,"alias":null,"pass":null,"ava":null,"email":null},"room":{"id":"mhjkrq","name":null,"type":null,"members":null}}<EOF>
+
+
+{"room":{},"user":{"name":"tesssssttttt","alias":"tesssssttttt","email":"tesssssttttt"},"message":{},"command":{"code":"1","id":"33","status":"0"}}<EOF>
+
+{"room":{},"user":{},"message":{},"command":{"code":"12","id":"14","status":"0"}}<EOF>
+{"room":{},"user":{},"message":{},"command":{"code":"11","id":"17","status":"0"}}<EOF>
+{"room":{},"user":{"name":"tesssssttttt","alias":"tesssssttttt","email":"tesssssttttt","ava":"iVBORw0KGgoAAAANSUhEUgAAAOMAAAE7CAIAAACg9qHtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAOdJREFUeF7twQENAAAAwqD3T20ONyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIzVHWwAB/JqDxAAAAABJRU5ErkJggg=="},"message":{},"command":{"code":"1","id":"14","status":"0"}}<EOF>
+
+{"room":{"id":"mhjkrq","name":"1","members":[{"name":"tesssssttttt","alias":"tesssssttttt","email":"tesssssttttt"}]},"user":{},"message":{},"command":{"code":"3","id":"13","status":"0"}}<EOF>
+{"room":{"id":"mhjkrq"},"user":{},"message":{"data":"Wellcome tesssssttttt ^.^","type":"1","author":"BoxBox"},"command":{"code":"6","id":"0000","status":"0"}}<EOF>
+{"room":{},"user":{},"message":{},"command":{"code":"1","id":"11","status":"2"}}<EOF>
+{"room":{"id":"mhjkrq","name":"1","members":[{"name":"tesssssttttt","alias":"tesssssttttt","email":"tesssssttttt"},{"name":"tester001","alias":"tester001","email":"19520958+tester001@gm.uit.edu.vn"}]},"user":{},"message":{},"command":{"code":"4","id":"4","status":"0"}}<EOF>
+{"room":{"id":"mhjkrq"},"user":{},"message":{"data":"Wellcome tester001 ^.^","type":"1","author":"BoxBox"},"command":{"code":"6","id":"0000","status":"0"}}<EOF>
+{"room":{"id":"mhjkrq"},"user":{},"message":{"data":"Wellcome tester001 ^.^","type":"1","author":"BoxBox"},"command":{"code":"6","id":"0000","status":"0"}}<EOF>
+{"room":{"id":"mhjkrq"},"user":{},"message":{"data":"1","type":"1","author":"tester001"},"command":{"code":"6","id":"0000","status":"0"}}<EOF>
+{"room":{"id":"mhjkrq"},"user":{},"message":{"data":"2","type":"1","author":"tester001"},"command":{"code":"6","id":"0000","status":"0"}}<EOF>
+{"room":{},"user":{},"message":{},"command":{"code":"11","id":"7","status":"0"}}<EOF>
+
+

@@ -1,0 +1,23 @@
+type User {
+  id: ID! @id
+  userName: String! @unique
+  alias: String!
+  passWord: String!
+  email: String!
+  ava: String!
+}
+
+type Room {
+	id: ID! @id
+	name: String!
+	roomid: String!@unique
+	users: [User!]!
+	createday: DateTime!
+}
+
+type Message{
+	id: ID! @id
+	user: String!
+	roomid: String!
+	content: String!
+}

@@ -1,0 +1,25 @@
+{
+	"command": { // bắt buộc có
+		"code": "00", // mã lệnh
+		"id": "0000", // Id 4 kí tự
+		"status": "", // của server trả về
+	},
+	"room": {
+		"id": "xxxxxx", // đúng 6 kí tự
+		"name": "",
+		"type": "", //"private" or "share"
+		"members": [ "","",], // bỏ vào username của mấy thằng trong room
+	},
+	"user": {
+		"name" : "",
+		"email": "",
+		"pass": "",
+		"ava": "", // byte array được encode sang string base64 của 1 file ảnh
+	},
+	"message": {
+		"data": "",
+		"type": "", //0 text, 1 file
+		"author": "", //username của người gửi
+		"date": "",
+	}
+}
